@@ -1,0 +1,11 @@
+.h1-style {
+  color: green;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; /* Adjust height as necessary */
+}

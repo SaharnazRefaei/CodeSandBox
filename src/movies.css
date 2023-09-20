@@ -1,0 +1,34 @@
+.h1-style {
+  color: green;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; /* Adjust height as necessary */
+}
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0; /* Adds some margin around the group */
+}
+
+.input-group input {
+  margin-right: 10px; /* Adds some margin between the input and the button */
+}
+.filtered-movies-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh; /* Adjust the height as per your preference */
+  margin: 0 auto;
+  width: 50%; /* Adjust the width as per your preference */
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f9f9f9; /* Optional: Adds a background color */
+  border-radius: 8px; /* Optional: Rounds the corners */
+}
